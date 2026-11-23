@@ -1,4 +1,4 @@
-Hi, I'm Akshita Sharma 👋
+Hi, I'am ## Akshita Sharma 👋
 
 🎓 First-Year College Student | Aspiring Software Developer
 Integrated MCA student at IIPS, DAVV, indore.
